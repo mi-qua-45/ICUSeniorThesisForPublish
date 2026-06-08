@@ -1,6 +1,6 @@
 掲載物
-- 解析ファイル
-- 卒論本文
+- 解析ファイル（卒業研究2(k_mer&hyp調整).ipynb）
+- 卒論本文（Additive Effects of Fixed-Length Sequences in Promoting DNA Demethylation）
 
 研究概要
 DNAの塩基配列データから、対象領域のメチル化状態を予測する2値分類モデルを構築しました。
